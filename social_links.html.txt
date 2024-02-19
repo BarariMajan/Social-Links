@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Social Media Links</title>
+</head>
+<body>
+
+    <h1>Connect with Me</h1>
+
+    <ul>
+        <li><a href="https://www.instagram.com/bararimajancom" target="_blank">Instagram</a></li>
+        <li><a href="https://www.snapchat.com/add/bararimajan5" target="_blank">Snapchat</a></li>
+        <li><a href="https://www.tiktok.com/@barari.majan.com" target="_blank">TikTok</a></li>
+        <li><a href="https://wa.me/0096879559672" target="_blank">WhatsApp</a></li>
+        <li><a href="tel:+96879559672">Phone: +968 79559672</a></li>
+        <li><a href="mailto:bararimajan2007.com">Email: bararimajan2007.com</a></li>
+        <!-- Add more social media links as needed -->
+    </ul>
+
+    
+
+</body>
+</html>
